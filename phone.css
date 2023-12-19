@@ -1,0 +1,108 @@
+#home {
+    height: 221px;
+    padding: 31px;
+    padding-top: 182px;
+    padding-bottom: 1px;
+}
+
+#home{
+    /* background: url("bgimg.jpg") no-repeat center center/cover; */
+    /* background-repeat: no-repeat; */
+    background-size: 100%;
+    /* padding: 0px; */
+}
+
+#home p{
+    font-size: 13px;
+}
+
+#home::before{
+    height: 400px;
+}
+
+#services{
+    flex-direction: column;
+
+}
+
+#services .box{
+    padding: 14px;
+    margin: 2px 15px;
+    margin-bottom: 20px;
+
+}
+
+
+
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+
+}
+
+#contact-box form{
+    width: 80%;
+}
+
+div .box {
+    border: 2px solid brown;
+    border-radius: 25px;
+    padding: 30px;
+    margin: 5px 18px;
+    background-color: #f2f2f2;
+}
+
+/* #services{
+
+} */
+
+#client img{
+    width: 66px;
+    padding: 2px 5px;
+    flex-wrap: wrap;
+    height: auto;
+}
+
+#client{
+    /* overflow: hidden; */
+    flex-wrap: wrap;
+}
+
+#navbar{
+    flex-direction: column;
+
+}
+
+.h-primary{
+    font-size: 26px;
+
+}
+
+.box img{
+    height: 148px;
+}
+
+/* html{
+    width: 400px;
+} */
+
+#hp{
+    height: 100px;
+
+}
+
+#micro{
+    height: 100px;
+
+}
+
+#sky{
+    height: 100px;
+
+}
+
+#google{
+
+    height: 100px;
+
+}
